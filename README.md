@@ -1,4 +1,4 @@
-# 🚀 Task Manager App (Full Stack)
+# 🚀 Task Manager App 
 
 A production-ready full-stack task management system built using **Django REST Framework** and **React**, featuring JWT authentication, role-based access control, and scalable architecture.
 
